@@ -4,7 +4,8 @@
   "description": "Utility API methods and constants for using the 5e Shaped Character Sheet in Roll20",
   "main": "shaped5e-util.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
   },
   "keywords": [
     "roll20",

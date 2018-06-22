@@ -9,4 +9,6 @@
  */
 
 
-import * as skills from "./shaped5e-skills";
+on("ready", () => { log("Shaped 5e Utils loaded."); });
+
+export * from "./shaped5e-skills";
