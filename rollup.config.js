@@ -1,5 +1,8 @@
+import json from "rollup-plugin-json";
+
 export default {
     input: "src/shaped5e-util.js",
+    plugins: [json()],
     output: [{
         file: "dist/shaped5e-util.js",
         format: "iife",

@@ -1,3 +1,5 @@
-on("ready", () => { log("Shaped 5e Utils loaded."); });
+import { version } from "../package.json";
+
+on("ready", () => { log(`[shaped5e] v${version} loaded.`); });
 
 export * from "./shaped5e-skills";
