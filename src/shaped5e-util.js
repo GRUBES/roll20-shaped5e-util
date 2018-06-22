@@ -9,4 +9,4 @@
  */
 
 
-export {}
+import * as skills from "./shaped5e-skills";
