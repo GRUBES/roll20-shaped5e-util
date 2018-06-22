@@ -1,6 +1,6 @@
 {
   "name": "roll20-shaped5e-util",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Utility API methods and constants for using the 5e Shaped Character Sheet in Roll20",
   "main": "shaped5e-util.js",
   "scripts": {
