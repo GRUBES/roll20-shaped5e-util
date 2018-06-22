@@ -1,0 +1,18 @@
+{
+  "name": "roll20-shaped5e-util",
+  "version": "0.1.0",
+  "description": "Utility API methods and constants for using the 5e Shaped Character Sheet in Roll20",
+  "main": "shaped5e-util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roll20",
+    "dnd5e"
+  ],
+  "author": "Draico Dorath",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.61.1"
+  }
+}
